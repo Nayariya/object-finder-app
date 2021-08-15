@@ -15,6 +15,11 @@ margin: 0px;
 font-size: 18px;
 }
 
+#input {
+    width: 400px;
+    border-radius: 20px;
+}
+
 canvas
 {
 border:2px solid white;
